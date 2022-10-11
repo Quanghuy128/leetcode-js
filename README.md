@@ -3,7 +3,7 @@
 
 #### Implemeting over 40 leetcode problems by JavaScript 
 #### My Leetcode:
-![Leetcode_Link](https://leetcode.com/Quanghuy128)
+[Leetcode_Link](https://leetcode.com/Quanghuy128)
 
 #### Connect me via quanghuyhihi128@gmail.com
 
